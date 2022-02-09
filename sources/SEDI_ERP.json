@@ -1,0 +1,9 @@
+{
+  "id": "SEDI_ERP",
+  "name": "SEDI ERP",
+  "categories": ["TOOLS"],
+  "organization": "SEDI_SOLUTIONS",
+  "iconUrl": "https://sedi.com.co/wp-content/uploads/2022/02/IconoDS.png",
+  "sourceUrl": "https://www.sedi.com.co/",
+  "dataVisibility": ["PRIVATE"]
+}
